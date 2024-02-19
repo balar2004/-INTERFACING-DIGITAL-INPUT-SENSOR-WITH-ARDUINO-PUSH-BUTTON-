@@ -88,3 +88,6 @@ void loop()
 ```
 ## OUTPUT OF SIMULATION :
 ![Screenshot 2024-02-16 160451](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/40c5fb46-53dc-4760-9bac-21dc69b936b1)
+
+## RESULT:
+Thus the digital interfacing of circuit using Arduino circuit is completed successfully by tinkercard
