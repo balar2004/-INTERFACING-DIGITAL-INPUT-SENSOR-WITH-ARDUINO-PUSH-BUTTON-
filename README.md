@@ -54,11 +54,7 @@ FIGURE-02
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-
-
 FIGURE -03
-
-
 
 
 ## PROGRAM 
@@ -91,9 +87,6 @@ void loop()
   }
 }
 ```
-
-
 ## OUTPUT OF SIMULATION :
-
 
 ![EXP-01 Bala R 212222220007](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/63af7f76-9baf-421f-b835-b09d0890b03a)
