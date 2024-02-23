@@ -53,9 +53,6 @@ FIGURE-02
 
 ![image](https://user-images.githubusercontent.com/36288975/163530437-87a0afbd-b3c9-44ad-b907-5de63486fb9d.png)
 
-FIGURE -03
-![EXP-01 Bala R 212222220007](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/63af7f76-9baf-421f-b835-b09d0890b03a)
-
 ## PROGRAM 
  ```
 // C++ code
@@ -88,6 +85,8 @@ void loop()
 ```
 ## OUTPUT OF SIMULATION :
 ![Screenshot 2024-02-16 160451](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/40c5fb46-53dc-4760-9bac-21dc69b936b1)
+## Sematic Diagram:
+![EXP-01 Bala R 212222220007](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/63af7f76-9baf-421f-b835-b09d0890b03a)
 
 ## RESULT:
 Thus the digital interfacing of circuit using Arduino circuit is completed successfully by tinkercard
