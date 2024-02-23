@@ -1,9 +1,8 @@
 ## Exp-1 INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :16/02/2024
-## NAME :Bala R																			             
-## ROLLNUMBER :212222220007
-## DEPARTMENT :B.Tech IT
-
+## Date:16/02/2024
+## Name:Bala R																			             
+## Rollnumber:212222220007
+## Department:B.Tech IT
 
 ## AIM:
 To interface a digital input (push button) and blink and LED upon activation.
@@ -35,10 +34,8 @@ Clock Speed	16 MHz
  
 ![image](https://user-images.githubusercontent.com/36288975/163530394-115baee4-7ed1-49fe-9cce-d7b625e11e85.png)
 
-FIGURE-01
 ![image](https://user-images.githubusercontent.com/36288975/163530431-4d390e98-0942-42d8-95b8-f57d348e6ad8.png)
 
-FIGURE-02
 ## PROCEDURE 
  Open tinker cad account 
 1.	Select Arduino uno , bread board , digital input and digital output 
@@ -46,8 +43,6 @@ FIGURE-02
 3.	Develop the program and compile it for any errors 
 4.	 .Execute the program 
 5.	Check the simulation 
-
-
 
 ## CIRCUIT DIAGRAM 
 
@@ -83,6 +78,7 @@ void loop()
   }
 }
 ```
+
 ## OUTPUT OF SIMULATION :
 ![Screenshot 2024-02-16 160451](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/40c5fb46-53dc-4760-9bac-21dc69b936b1)
 ## Sematic Diagram:
