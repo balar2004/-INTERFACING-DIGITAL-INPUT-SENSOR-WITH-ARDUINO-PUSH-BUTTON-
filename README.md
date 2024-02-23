@@ -79,8 +79,13 @@ void loop()
 }
 ```
 
-## OUTPUT OF SIMULATION :
+## Simulation Output:
+## OFF Condition:
 ![Screenshot 2024-02-16 160451](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/40c5fb46-53dc-4760-9bac-21dc69b936b1)
+
+## NO Condition:
+![exp1](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/18a79467-d51c-4975-92b8-4b7c036fff05)
+
 ## Sematic Diagram:
 ![EXP-01 Bala R 212222220007](https://github.com/balar2004/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/118791778/63af7f76-9baf-421f-b835-b09d0890b03a)
 
